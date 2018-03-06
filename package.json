@@ -1,0 +1,23 @@
+{
+  "name": "react-prototype",
+  "version": "1.0.0",
+  "description": "react prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ettchan/react-prototype.git"
+  },
+  "author": "Eric Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ettchan/react-prototype/issues"
+  },
+  "homepage": "https://github.com/ettchan/react-prototype#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
