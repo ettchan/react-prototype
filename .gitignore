@@ -7,3 +7,5 @@ package-lock.json
 *.ttf
 *.eot
 *.woff
+bundle.js
+bundle.css
