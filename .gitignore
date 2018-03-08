@@ -1,4 +1,9 @@
 node_modules/*
 .DS_Store
 src/client/.DS_Store
-package-lock
+package-lock.json
+*.woff2
+*.svg
+*.ttf
+*.eot
+*.woff

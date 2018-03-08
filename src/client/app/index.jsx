@@ -1,9 +1,14 @@
 import React from 'react';
 import {render} from 'react-dom';
+import Menu from './components/menu.jsx'
+import Navigation from './navigation/nav.jsx'
 
 class App extends React.Component {
     render () {
-        return <div className="test"><p> Hello React Project</p></div>;
+        return <div>
+            <div className="nav"><Navigation/> </div>
+            <div><Menu/></div>
+        </div>
     }
 }
 
